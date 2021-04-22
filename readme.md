@@ -196,6 +196,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
 - [Trolley](https://trolley.link/) - Add a popup cart to any website - designed for static & JAMstack sites.
 - [Commerce Layer](https://commercelayer.io/) - Add enterprise ecommerce to your JAMstack.
+- [Microstripe]  https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5
+- 
 
 ## Payments
 
@@ -243,6 +245,7 @@ Third party integration:
 ## Related Lists
 
 - [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting)
+- [Awesome Next.JS] (https://github.com/unicodeveloper/awesome-nextjs)
 
 ----
 
